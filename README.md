@@ -16,3 +16,4 @@ easy
 
 - 編號 
 - 分點
+<img width="972" height="252" alt="image" src="https://github.com/user-attachments/assets/d5c9f05d-900a-4563-b1e8-298931d64f5f" />
