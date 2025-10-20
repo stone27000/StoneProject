@@ -9,3 +9,10 @@ easy
 
 [google](http://www.google.com)
 [訂單明細](homework/訂單明細.xls)
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+- 編號 
+- 分點
